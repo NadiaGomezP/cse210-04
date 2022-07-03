@@ -3,10 +3,6 @@ from game.casting.actor import Actor
 
 class Score(Actor):
     """
-    An item of cultural or historical interest. 
-    
-    The responsibility of an Artifact is to provide a message about itself.
-
     Attributes:
         _point (int): The score.
     """
